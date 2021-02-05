@@ -18,15 +18,15 @@ I'm currently studying Computer Science and learning to code by creating my own 
 ![IntelliJ-IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=IntelliJ-IDEA&logoColor=white)
 
 ### Completed projects
-**NASAapp** - web aplication which uses NASA WebApi to display photos with description and show asteroids which miss Earth today. Created to learn JSON API, ASP.NET Core MVC and how to deploy web app to Azure.  
+**NASAapp** - web application which uses NASA WebApi to display photos with description and show asteroids which miss Earth today. Created to learn JSON API, ASP.NET Core MVC and how to deploy web app to Azure.  
 [Repository](https://github.com/rafalochman/NASAapp) | [Demo](https://nasaapp.azurewebsites.net)
 
 **CrossTheRoad** - desktop java arcade game. Created as an extensive project to learn JavaFX, Maven and get to know some external java libraries.  
 [Repository](https://github.com/rafalochman/crossTheRoad)
 
-**GpxVPy** - desktop aplication to show gpx route on map and calculate route distance, time, elevation. My first python PyQt project.  
+**GpxVPy** - desktop application to show gpx route on map and calculate route distance, time, elevation. My first python PyQt project.  
 [Repository](https://github.com/rafalochman/gpxViewerPython)
 
 ### Projects in development
-**GpxViewer** - web aplication to show gpx route on map, generate elevation chart and calculate route distance, time, elevation.Routes and calculated data are saved to database. I'm learning ASP.NET MVC, Entity Framework and JavaScript.  
+**GpxViewer** - web application to show gpx route on map, generate elevation chart and calculate route distance, time, elevation. Routes and calculated data are saved to database. I'm learning ASP.NET MVC, Entity Framework and JavaScript.  
 [Repository](https://github.com/rafalochman/gpxViewer)
