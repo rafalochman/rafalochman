@@ -1,4 +1,4 @@
-## Hi, I am Rafał Ochman 👋
+## Hi, I am Rafał Ochman
 I'm currently studying Computer Science and learning to code by creating my own projects. I am passionate about technologies and enjoy to learn new things.
 
 ### Technologies
@@ -18,8 +18,8 @@ I'm currently studying Computer Science and learning to code by creating my own 
 ![IntelliJ-IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=IntelliJ-IDEA&logoColor=white)
 
 ### Completed projects
-**NASAapp** - web application which uses NASA WebApi to display photos with description and show asteroids which miss Earth today. Created to learn JSON API, ASP.NET Core MVC and how to deploy web app to Azure.  
-[Repository](https://github.com/rafalochman/NASAapp) | [Demo](https://nasaapp.azurewebsites.net)
+**SpaceApp** - web application which uses NASA WebApi to show astronomy picture of the day with description, current Mars weather and asteroids which miss Earth. Created to learn JSON API, ASP.NET Core MVC and how to deploy web app to Azure.  
+[Repository](https://github.com/rafalochman/SpaceApp) | [Demo](https://spaceapplication.azurewebsites.net)
 
 **CrossTheRoad** - desktop java arcade game. Created as an extensive project to learn JavaFX, Maven and get to know some external java libraries.  
 [Repository](https://github.com/rafalochman/crossTheRoad)
