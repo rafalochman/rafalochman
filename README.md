@@ -29,4 +29,4 @@ I'm currently studying Computer Science and learning to code by creating my own 
 
 ### Projects in development
 
-**InvMed** - system supporting the inventory of goods in a medical warehouse. I'm currently developing it in ASP.NET Core.
+**InvMed** - system supporting the inventory of goods in a medical warehouse. I'm currently developing it in ASP.NET Core Blazor.
