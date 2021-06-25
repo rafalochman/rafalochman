@@ -4,11 +4,13 @@ I'm currently studying Computer Science and learning to code by creating my own 
 ### Technologies
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=C-sharp&logoColor=239120)
 ![.NET](https://img.shields.io/badge/-%2ENET-000?&logo=%2ENET&logoColor=5C2D91)
+![Blazor](https://img.shields.io/badge/-Blazor-000?&logo=Blazor&logoColor=800080)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=Microsoft-SQL-Server&logoColor=CC2927)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=Html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DBFB)
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=white)
@@ -26,6 +28,9 @@ I'm currently studying Computer Science and learning to code by creating my own 
 
 **CrossTheRoad** - desktop java arcade game. Created as an extensive project to learn JavaFX, Maven and get to know some external java libraries.  
 [Repository](https://github.com/rafalochman/crossTheRoad)
+
+**OrdersProducts** - simple CRUD type web application created to learn Spring and React.  
+[Repository](https://github.com/rafalochman/OrdersProducts)
 
 ### Projects in development
 
